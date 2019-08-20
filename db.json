@@ -1,0 +1,28 @@
+{
+  "register": [
+    {
+      "id": 156,
+      "address": "Sola",
+      "contact": "7755116644",
+      "name": "Chirag",
+      "password": "Satva1213#",
+      "role": 1
+    },
+    {
+      "id": 114,
+      "address": "Bodakdev",
+      "contact": "8855224455",
+      "name": "User",
+      "password": "Satva1213#",
+      "role": "2"
+    },
+    {
+      "id": 60,
+      "address": "Rajpath Club",
+      "contact": "9924888158",
+      "name": "Admin",
+      "password": "Satva1213#",
+      "role": 1
+    }
+  ]
+}
